@@ -3,6 +3,7 @@
 This project implements an automatic image colorization system using deep learning. The task aims to restore color information from grayscale images by learning a mapping between grayscale and color image pairs using supervised learning.
 
 The project was originally developed as a final project for the Computer Vision course and later extended to compare multiple pretrained encoder architectures combined with a UNet-style decoder.
+https://github.com/angelous/Color-Restoration
 
 ---
 
