@@ -1,4 +1,5 @@
 # Image Colorization Using Deep Learning (UNet-based Architectures)
+Training was conducted on Kaggle due to hardware constraints.
 
 This project implements an automatic image colorization system using deep learning. The task aims to restore color information from grayscale images by learning a mapping between grayscale and color image pairs using supervised learning.
 
